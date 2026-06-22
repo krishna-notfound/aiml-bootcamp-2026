@@ -7,6 +7,6 @@ This repository contains the materials and assignments for the GLA Machine Learn
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/krishna-notfound/GLA-Sprint1.git 
     ```
 2.  Open the notebooks in Jupyter or Google Colab to get started with the sessions.
